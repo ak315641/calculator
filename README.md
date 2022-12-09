@@ -13,4 +13,5 @@ To build, simply:
 
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
+3. In the list of repo files, ckick README.md and on the master/calculator/README.md page in the upper right corner of the pane displaying the file content, click the Edit this file icon in the shape of a pencil.
 
